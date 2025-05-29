@@ -1,3 +1,8 @@
 .vscode/
+conversation.json
+conversation.srt
+conversation.tsv
+conversation.txt
+conversation.vtt
 out/
 uv.lock
